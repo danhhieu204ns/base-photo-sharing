@@ -1,0 +1,77 @@
+[{
+  "_id": "57231f1a30e4351f4e9f4bd7",
+  "first_name": "Ian",
+  "last_name": "Malcolm",
+  "location": "Austin, TX",
+  "description": "Should've stayed in the car.",
+  "occupation": "Mathematician",
+  "username": "user0",
+  "password": "a"
+},
+{
+  "_id": "57231f1a30e4351f4e9f4bd8",
+  "first_name": "Ellen",
+  "last_name": "Ripley",
+  "location": "Nostromo",
+  "description": "Lvl 6 rating. Pilot.",
+  "occupation": "Warrant Officer",
+  "username": "user1"
+},
+{
+  "_id": "57231f1a30e4351f4e9f4bd9",
+  "first_name": "Peregrin",
+  "last_name": "Took",
+  "location": "Gondor",
+  "description": "Home is behind, the world ahead... And there are many paths to tread. Through shadow, to the edge of night, until the stars are all alight... Mist and shadow, cloud and shade, all shall fade... all... shall... fade... ",
+  "occupation": "Thain",
+  "username": "user2"
+},
+{
+  "_id": "57231f1a30e4351f4e9f4bda",
+  "first_name": "Rey",
+  "last_name": "Kenobi",
+  "location": "D'Qar",
+  "description": "Excited to be here!",
+  "occupation": "Rebel",
+  "username": "user3"
+},
+{
+  "_id": "57231f1a30e4351f4e9f4bdb",
+  "first_name": "April",
+  "last_name": "Ludgate",
+  "location": "Pawnee, IN",
+  "description": "Witch",
+  "occupation": "Animal Control",
+  "username": "user4"
+},
+{
+  "_id": "57231f1a30e4351f4e9f4bdc",
+  "first_name": "John",
+  "last_name": "Ousterhout",
+  "location": "Stanford, CA",
+  "description": "<i>CS142!</i>",
+  "occupation": "Professor",
+  "username": "user5"
+},
+{
+  "_id": "1749001098425",
+  "first_name": "Mai",
+  "last_name": "Danh Hieu",
+  "location": "Ha Noi",
+  "description": "Majoring in Computer Science",
+  "occupation": "Student",
+  "username": "admin",
+  "password": "admin",
+  "__v": 0
+},
+{
+  "_id": "1749001412967",
+  "first_name": "User",
+  "last_name": "Test",
+  "location": "Ha Noi",
+  "description": "Just for testing!",
+  "occupation": "Student",
+  "username": "user",
+  "password": "user",
+  "__v": 0
+}]

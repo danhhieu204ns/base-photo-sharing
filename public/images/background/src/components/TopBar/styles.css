@@ -1,0 +1,24 @@
+.topbar-appBar {
+  height: 60px;
+  /* background: linear-gradient(45deg, #1976d2 30%, #2196f3 90%); */
+  box-shadow: 0 3px 5px 2px rgba(33, 150, 243, .3);
+}
+
+.topbar-appBar .MuiToolbar-root {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 16px;
+}
+
+.topbar-title {
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+.topbar-context {
+  font-weight: 400;
+  background-color: rgba(255, 255, 255, 0.15);
+  padding: 4px 12px;
+  border-radius: 4px;
+  backdrop-filter: blur(10px);
+}

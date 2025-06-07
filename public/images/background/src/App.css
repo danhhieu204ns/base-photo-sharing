@@ -1,0 +1,26 @@
+.main-topbar-buffer {
+  margin-top: 70px;
+}
+
+.main-grid-item {
+  height: calc(100vh - 85px);
+  padding: 10px;
+  overflow-y: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+}
+
+body {
+  background-color: #f5f7fa;
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  /* color: #1976d2; */
+  /* transition: color 0.3s ease; */
+}
+
+a:hover {
+  /* color: #0d47a1; */
+}
